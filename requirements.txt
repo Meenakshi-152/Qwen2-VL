@@ -1,1 +1,8 @@
-streamlit
+streamlit 
+transformers 
+requests
+byaldi 
+#io
+torch
+re
+#base64
